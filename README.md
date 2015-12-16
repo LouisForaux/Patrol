@@ -15,7 +15,9 @@ Patrol Host Control, est un CMS Open Source de gestion d'hébergement Mutualisé
  - Gestion des paiments SMS (AlloPass, StarPass, YouPass)
  - Gestion des paiments PayPal
  - Gestion des utilisateurs (Vérifications manuelles (ou pas), connexion subsidiaires, ETC...)
+ - Gestion des domaines et des status (Possibilité de suspendre un domaine)
  - Gestion des profils publique des membres (Compétences, sites internets publiques, ...)
  - Gestion d'un Annuaire des sites (pour les sites internets publiques)
+
 # DEV STATUS
 En cours (10%)
