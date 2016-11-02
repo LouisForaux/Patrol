@@ -21,3 +21,5 @@ Patrol Host Control, est un CMS Open Source de gestion d'hébergement Mutualisé
 
 # DEV STATUS
 En cours (10%)
+
+![Build Status](http://178.33.218.5:8181/buildStatus/icon?job=Patrol Host Control)
